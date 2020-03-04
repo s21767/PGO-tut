@@ -1,2 +1,4 @@
-# PJO-tut
-Linh Nguyen - s21767
+# PGO-tut
+Linh Nguyen
+</br>
+s21767
